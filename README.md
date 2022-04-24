@@ -3,7 +3,7 @@
 ## I'm a developer and otaku
 
 - 🤓 I’m currently learning everything
-- 🥅 2021 Goals: Learn to speak English
+- 🥅 2023 Goals: Learn to speak English
 - ⚡ I love anime and volleyball
 
 ### Connect with me:
