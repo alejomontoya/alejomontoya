@@ -6,8 +6,8 @@ Javascript developer
 
 I am passionate about web development
 
-* 🌍  I'm based in Chile
-* ✉️  You can contact me at [jesusdeveloper319@gmail.com](mailto:jesusdeveloper319@gmail.com)
+* 🌍  I'm based in Colombia
+* ✉️  You can contact me at [jesusdeveloper319@gmail.com](mailto:jesusdeveloper319@gmail.com)
 
 ### Skills
 
