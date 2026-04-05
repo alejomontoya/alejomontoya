@@ -4,7 +4,7 @@ Hi 👋 My name is Alejandro Montoya
 Javascript developer
 --------------------
 
-Javascript enthusiast with 3+ years of experience in software engineering. Building innovative solutions daily.
+Javascript enthusiast with 6+ years of experience in software engineering. Building innovative solutions daily.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [jesusdeveloper319@gmail.com](mailto:jesusdeveloper319@gmail.com)
